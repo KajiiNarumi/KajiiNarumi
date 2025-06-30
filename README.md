@@ -17,9 +17,10 @@ Todo con un enfoque minimalista, claro y directo.
 
 ## 📌 Plataformas Principales
 
-| [📺 YouTube](https://youtube.com/@kajiinarumi) | [📝 Blog](https://blog.kajiinarumi.com) | [🛍️ Tienda](https://kajiinarumi.com) |
-|:---------------------------------------------:|:---------------------------------------:|:------------------------------------:|
-| Cursos, tutoriales, shorts...    | Guías escritas, materiales de cursos, recursos... | Kits de cursos, donaciones, productos digitales y físicos |
+| [📺 YouTube](https://youtube.com/@kajiinarumi) | [📝 Blog](https://blog.kajiinarumi.com) | [🛍️ Tienda](https://kajiinarumi.com) | [🎮 Steam](https://store.steampowered.com/curator/42511696-Kajii-Narumi/) |
+|:---------------------------------------------:|:---------------------------------------:|:------------------------------------:|:-------------------------------------------------------------------------:|
+| Cursos, tutoriales, shorts...                 | Guías escritas, materiales de cursos, recursos... | Kits de cursos, donaciones, productos digitales y físicos | Reseñas y pruebas de videojuegos en GNU/Linux (Ubuntu / Kubuntu) |
+
 
 ---
 
@@ -47,3 +48,9 @@ Contáctame para futuras colaboraciones:
 ---
 
 > Creado y dirigido por I. Antoine Suárez V.
+>
+![Lenguaje favorito](https://img.shields.io/badge/lenguaje-JavaScript-yellow)
+![GitHub followers](https://img.shields.io/github/followers/KajiiNarumi?label=Seguidores&style=social)
+![Visitas al perfil](https://komarev.com/ghpvc/?username=KajiiNarumi&color=blue)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KajiiNarumi&show_icons=true&theme=radical)
