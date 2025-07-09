@@ -34,23 +34,3 @@ Todo con un enfoque minimalista, claro y directo.
 
 
 > Todos los contenidos están pensados para usarse, modificarse y compartirse con fines educativos.
-
----
-
-## 🤝 Colabora
-
-¿Tienes algo que enseñar?  
-¿Quieres compartir tus conocimientos bajo la firma Kajii Narumi?
-
-Contáctame para futuras colaboraciones:
-📧 [Contáctanos aquí](https://kajiinarumi.com/contact)
-
----
-
-> Creado y dirigido por I. Antoine Suárez V.
->
-![Lenguaje favorito](https://img.shields.io/badge/lenguaje-JavaScript-yellow)
-![GitHub followers](https://img.shields.io/github/followers/KajiiNarumi?label=Seguidores&style=social)
-![Visitas al perfil](https://komarev.com/ghpvc/?username=KajiiNarumi&color=blue)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KajiiNarumi&show_icons=true&theme=radical)
