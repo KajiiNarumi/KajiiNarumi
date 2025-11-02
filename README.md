@@ -32,6 +32,6 @@ Todo con un enfoque minimalista, claro y directo.
 | [⏱️ Cuenta tu tiempo](https://kajiinarumi.github.io/Cuenta-tu-tiempo/) | Temporizador simple para rutinas de estudio o concentración            | HTML          |
 | [✍️ Write Your Story](https://kajiinarumi.github.io/write-your-story/) | Editor de texto Markdown para escritura creativa o diaria                       | HTML          |
 | [🖼 Lector EXIF ](https://kajiinarumi.github.io/LectorEXIF/) | Extrae el EXIF de las fotografías (JPEG) | HTML |
-|[Epub Reader](https://kajiinarumi.github.io/EpubReader/) | Lector de EPUB Online | HTML |
+|[📚 Epub Reader](https://kajiinarumi.github.io/EpubReader/) | Lector de EPUB Online | HTML |
 
 > Todos los contenidos están pensados para usarse, modificarse y compartirse con fines educativos.
