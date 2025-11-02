@@ -17,7 +17,7 @@ Todo con un enfoque minimalista, claro y directo.
 
 ## 📌 Plataformas Principales
 
-| [📺 YouTube](https://youtube.com/@kajiinarumi) | [🛍️ Tienda](https://kajiinarumi.com) | [🎮 Steam](https://store.steampowered.com/curator/42511696-Kajii-Narumi/) |
+| [📺 YouTube](https://youtube.com/@kajiinarumi) | [🌎 Wb Site](https://kajiinarumi.com) | [🎮 Steam](https://store.steampowered.com/curator/42511696-Kajii-Narumi/) |
 |:---------------------------------------------:|:------------------------------------:|:-------------------------------------------------------------------------:|
 | Cursos, tutoriales, shorts...                  | Kits de cursos, donaciones, productos digitales y físicos | Reseñas y pruebas de videojuegos en GNU/Linux (Ubuntu / Kubuntu) |
 
