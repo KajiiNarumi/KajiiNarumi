@@ -1,25 +1,19 @@
 # 🌙 Kajii Narumi
 
-**Tutoriales, cursos y conocimiento aplicado para mentes autodidactas.**
 
-En Kajii Narumi comparto herramientas, métodos y aprendizajes que me han sido útiles, desde sistemas operativos y software práctico hasta recursos simbólicos y didácticos.
+**¡Conocimiento para Humanos!**
 
-📚 Aquí encontrarás contenido sobre:
-
-- 💻 Tecnología y sistemas (Windows, Linux, apps útiles)  
-- 🔮 Esoterismo práctico (runes, tarot, alquimia aplicada)  
-- 📦 Proyectos pequeños y herramientas educativas
-
-Todo con un enfoque minimalista, claro y directo.
-
+Kajii Narumi es un proyecto que busca despertar curiosidad, formar criterio y fortalecer la capacidad de deducir por uno mismo.  
+No se trata solo de transmitir contenido, sino de acompañar el aprendizaje desde un enfoque humano, claro y accesible.  
+Aunque no es una persona, Kajii Narumi representa una presencia que orienta: un mentor que comparte conocimiento aplicado y experiencias útiles para la vida cotidiana y práctica.
 
 ---
 
 ## 📌 Plataformas Principales
 
-| [📺 YouTube](https://youtube.com/@kajiinarumi) | [🌎 Wb Site](https://kajiinarumi.com) | [🎮 Steam](https://store.steampowered.com/curator/42511696-Kajii-Narumi/) |
-|:---------------------------------------------:|:------------------------------------:|:-------------------------------------------------------------------------:|
-| Cursos, tutoriales, shorts...                  | Kits de cursos, donaciones, productos digitales y físicos | Reseñas y pruebas de videojuegos en GNU/Linux (Ubuntu / Kubuntu) |
+| [🌎 Web Site](https://kajiinarumi.com) | [📺 YouTube](https://youtube.com/@kajiinarumi) | [📝 Blog](https://codigokajiinarumi.blogspot.com) | [🎮 Steam](https://store.steampowered.com/curator/42511696-Kajii-Narumi/) |
+|:--------------------------------------:|:----------------------------------------------:|:-----------------------------------------------:|:-------------------------------------------------------------------------:|
+| Kits de cursos, donaciones, productos digitales y físicos | Contenido en video, guías y reflexiones | Artículos complementarios, análisis y puntos de vista | Reseñas y pruebas de videojuegos en GNU/Linux |
 
 
 ---
