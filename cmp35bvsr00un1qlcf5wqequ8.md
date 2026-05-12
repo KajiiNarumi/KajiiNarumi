@@ -9,7 +9,8 @@ tags: steam, bleed, linuxgamer, steamlinux
 
 ---
 
-Esta es una actualización a una reseña que había realizado en ["Código Kajii Narumi"](https://codigokajiinarumi.blogspot.com/2022/06/bleed-resena-caracteristicas-y.html).
+Esta es una actualización a una reseña que había realizado en:
+["Código Kajii Narumi"](https://codigokajiinarumi.blogspot.com/2022/06/bleed-resena-caracteristicas-y.html).
 
 Bleed 1 / [Nativo](https://store.steampowered.com/curator/42511696-Kajii-Narumi/list/157890/) / [Pago](https://store.steampowered.com/curator/42511696-Kajii-Narumi/list/95397/)
 
