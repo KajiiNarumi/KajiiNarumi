@@ -31,4 +31,15 @@ En otras palabras, si solo te limitas al modo historia, tu precio por hora en St
 
 En resumen, es un juego estilo retro que puede poner a prueba tus habilidades de coordinación ojo-mano. Pese a que es un juego aparentemente corto, la realidad es que vas a tener muchas horas de entretenimiento, haciendo que valga cada centavo gastado.
 
-Recuerda que puedes seguirme en mi perfil de [Steam Curator](https://store.steampowered.com/curator/42511696-Kajii-Narumi) para conocer más reseñas. Si te gustan estas reseñas puedes apoyarme con un [cafesito](https://kajiinarumi.com) para poder comprar más juegos.
+## Kajiificación
+
+- Historia = 3/5
+- Mecanicas = 5/5
+- Dificultad = 5/5
+- Duración = 5/5
+
+**Kajiificación total = 4.5/5**
+
+Recuerda que puedes seguirme en mi perfil de [Steam Curator](https://store.steampowered.com/curator/42511696-Kajii-Narumi) para conocer más reseñas.
+
+> Si te gustan estas reseñas puedes apoyarme con un [cafesito](https://kajiinarumi.com) para poder comprar más juegos.
