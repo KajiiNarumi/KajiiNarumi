@@ -3,6 +3,7 @@ title: "Bleed 1 en Linux"
 datePublished: 2026-05-12T21:31:59.548Z
 cuid: cmp35bvsr00un1qlcf5wqequ8
 slug: bleed-1-en-linux
+ogImage: https://cdn.hashnode.com/uploads/og-images/6a02d085937b84f779235d88/c30dbcc6-fe64-4ecf-8605-289ae3fe312f.jpg
 tags: steam, bleed, linuxgamer, steamlinux
 
 ---
