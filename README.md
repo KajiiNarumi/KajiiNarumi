@@ -14,8 +14,9 @@ Aunque no es una persona, Kajii Narumi representa una presencia que orienta: un 
 
 | [🌎 Web Site](https://kajiinarumi.com) | [📺 YouTube](https://youtube.com/@kajiinarumi) | [📝 Blog](https://blog.kajiinarumi.com) | [💬 Podcast](https://www.ivoox.com/escuchar-audios-kajii-narumi_al_4330368_1.html) | [🎮 Steam](https://store.steampowered.com/curator/42511696-Kajii-Narumi/) |
 |:--------------------------------------:|:----------------------------------------------:|:-----------------------------------------------:|:-------------------------------------------------------------------------:|:------------------------------------------------:|
-| Kits de cursos, donaciones, productos digitales y físicos | Contenido en video, guías y reflexiones | Artículos complementarios, análisis y puntos de vista | La semilla parlante y el retoño parlante | Reseñas y pruebas de videojuegos en GNU/Linux |
+| Donaciones, productos digitales y físicos | Contenido en video, guías y reflexiones | Artículos complementarios, análisis y puntos de vista | La semilla parlante y el retoño parlante | Reseñas y pruebas de videojuegos en GNU/Linux |
 
+Sígueme en [Bluesky](https://bsky.app/profile/kajiinarumi.com) y [Telegram](https://t.me/s/KajiiNarumi)
 ---
 
 ## 📂 Repositorios Destacados
@@ -26,6 +27,7 @@ Aunque no es una persona, Kajii Narumi representa una presencia que orienta: un 
 | [⏱️ Cuenta tu tiempo](https://kajiinarumi.github.io/Cuenta-tu-tiempo/) | Temporizador simple para rutinas de estudio o concentración            | HTML          |
 | [✍️ Write Your Story](https://kajiinarumi.github.io/write-your-story/) | Editor de texto Markdown para escritura creativa o diaria                       | HTML          |
 | [🖼 Lector EXIF ](https://kajiinarumi.github.io/LectorEXIF/) | Extrae el EXIF de las fotografías (JPEG) | HTML |
-|[📚 Epub Reader](https://kajiinarumi.github.io/EpubReader/) | Lector de EPUB Online | HTML |
+| [📚 Epub Reader](https://kajiinarumi.github.io/EpubReader/) | Lector de EPUB Online | HTML |
+| [📠 Entrenador Morse](https://kajiinarumi.github.io/EntrenadorMorse/) | Entrenador de código Morse | HTML |
 
 > Todos los contenidos están pensados para usarse, modificarse y compartirse con fines educativos.
