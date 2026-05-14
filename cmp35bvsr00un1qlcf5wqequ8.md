@@ -9,8 +9,7 @@ tags: steam, bleed, linuxgamer, steamlinux
 
 ---
 
-Esta es una actualización a una reseña que había realizado en:
-["Código Kajii Narumi"](https://codigokajiinarumi.blogspot.com/2022/06/bleed-resena-caracteristicas-y.html).
+Esta es una actualización a una reseña que había realizado en: ["Código Kajii Narumi"](https://codigokajiinarumi.blogspot.com/2022/06/bleed-resena-caracteristicas-y.html).
 
 Bleed 1 / [Nativo](https://store.steampowered.com/curator/42511696-Kajii-Narumi/list/157890/) / [Pago](https://store.steampowered.com/curator/42511696-Kajii-Narumi/list/95397/)
 
@@ -32,12 +31,18 @@ En otras palabras, si solo te limitas al modo historia, tu precio por hora en St
 
 En resumen, es un juego estilo retro que puede poner a prueba tus habilidades de coordinación ojo-mano. Pese a que es un juego aparentemente corto, la realidad es que vas a tener muchas horas de entretenimiento, haciendo que valga cada centavo gastado.
 
+https://youtu.be/tZAPNbUeKrk
+
 ## Kajiificación
 
-- Historia = 3/5
-- Mecanicas = 5/5
-- Dificultad = 5/5
-- Duración = 5/5
+*   Historia = 3/5
+    
+*   Mecanicas = 5/5
+    
+*   Dificultad = 5/5
+    
+*   Duración = 5/5
+    
 
 **Kajiificación total = 4.5/5**
 
