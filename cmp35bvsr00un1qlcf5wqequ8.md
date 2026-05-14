@@ -34,6 +34,9 @@ En resumen, es un juego estilo retro que puede poner a prueba tus habilidades de
 
 <iframe width="100%" height="515" src="https://www.youtube.com/embed/tZAPNbUeKrk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+![Reseña bleed en YouTube](https://youtu.be/tZAPNbUeKrk)
+
+
 ## Kajiificación
 
 *   Historia = 3/5
