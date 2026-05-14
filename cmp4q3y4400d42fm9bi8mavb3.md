@@ -28,6 +28,8 @@ No niego que sería agradable leer en el jacuzzi, pero es poco probable que sea 
 
 Por otro lado, es un dispositivo que hace exactamente lo que fue diseñado para hacer, y lo hace muy bien: permite llevar una biblioteca en el bolsillo y leer sin dañar la vista. Como optometrista, jamás recomiendo una tableta o un móvil para leer, debido al daño que estos dispositivos pueden causar a la vista; para eso están los lectores digitales con tinta electrónica.
 
-Puedes ver mi lista de reprodución ["Mundo Kindle"](https://www.youtube.com/playlist?list=PLfyRETG_hY1B1d5wDjQTVmfSDOCzLDq8w) en YouTube
+Puedes ver mi lista de reprodución 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=4BngPlPtkGIcMIZ8&amp;list=PLfyRETG_hY1B1d5wDjQTVmfSDOCzLDq8w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 > Si te gustan estas reseñas puedes apoyarme con un [cafesito](https://kajiinarumi.com) para poder seguir con el proyecto.
