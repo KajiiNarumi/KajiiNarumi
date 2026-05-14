@@ -12,9 +12,9 @@ Aunque no es una persona, Kajii Narumi representa una presencia que orienta: un 
 ## 📌 Plataformas Principales
 
 
-| [🌎 Web Site](https://kajiinarumi.com) | [📺 YouTube](https://youtube.com/@kajiinarumi) | [📝 Blog](https://codigokajiinarumi.blogspot.com) | [🎮 Steam](https://store.steampowered.com/curator/42511696-Kajii-Narumi/) | [💬 Discord](https://discord.com/invite/BXnNdJ55hx) |
+| [🌎 Web Site](https://kajiinarumi.com) | [📺 YouTube](https://youtube.com/@kajiinarumi) | [📝 Blog](https://blog.kajiinarumi.com) | [💬 Podcast](https://www.ivoox.com/escuchar-audios-kajii-narumi_al_4330368_1.html) | [🎮 Steam](https://store.steampowered.com/curator/42511696-Kajii-Narumi/) |
 |:--------------------------------------:|:----------------------------------------------:|:-----------------------------------------------:|:-------------------------------------------------------------------------:|:------------------------------------------------:|
-| Kits de cursos, donaciones, productos digitales y físicos | Contenido en video, guías y reflexiones | Artículos complementarios, análisis y puntos de vista | Reseñas y pruebas de videojuegos en GNU/Linux | Comunidad, conversaciones, soporte y eventos en vivo |
+| Kits de cursos, donaciones, productos digitales y físicos | Contenido en video, guías y reflexiones | Artículos complementarios, análisis y puntos de vista | La semilla parlante y el retoño parlante | Reseñas y pruebas de videojuegos en GNU/Linux |
 
 ---
 
