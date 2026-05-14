@@ -31,7 +31,8 @@ En otras palabras, si solo te limitas al modo historia, tu precio por hora en St
 
 En resumen, es un juego estilo retro que puede poner a prueba tus habilidades de coordinación ojo-mano. Pese a que es un juego aparentemente corto, la realidad es que vas a tener muchas horas de entretenimiento, haciendo que valga cada centavo gastado.
 
-https://youtu.be/tZAPNbUeKrk
+
+<iframe width="100%" height="515" src="https://www.youtube.com/embed/tZAPNbUeKrk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Kajiificación
 
