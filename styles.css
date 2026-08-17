@@ -1,0 +1,245 @@
+/* ==========================================
+   CSS GLOBAL MINIMALISTA - KAJII NARUMI
+   ========================================== */
+
+:root {
+  --bg: #000000;
+  --text: #ffffff;
+  --text-muted: #aaaaaa;
+  --border-color: #222222;
+  --font-family: "Times New Roman", Times, Georgia, serif;
+}
+
+/* Reset Básico */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: var(--bg);
+  color: var(--text);
+  font-family: var(--font-family);
+  font-size: 1.25rem; /* Fuente base más grande y legible (20px) */
+  line-height: 1.8;
+  padding: 60px 20px;
+  max-width: 800px;  /* Ligeramente más ancho para acompañar el tamaño de letra */
+  margin: 0 auto;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ==========================================
+   ENCABEZADOS (H1 - H4)
+   ========================================== */
+
+h1, h2, h3, h4 {
+  font-weight: normal;
+  line-height: 1.3;
+  color: var(--text);
+  letter-spacing: 1px;
+}
+
+h1 {
+  font-size: 3.2rem;
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 25px;
+}
+
+h2 {
+  font-size: 2.1rem;
+  margin-top: 70px;
+  margin-bottom: 25px;
+  border-bottom: 1px solid var(--border-color);
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-size: 1.6rem;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+
+h4 {
+  font-size: 1.35rem;
+  margin-top: 40px;
+  margin-bottom: 15px;
+  font-style: italic;
+  color: var(--text-muted);
+}
+
+/* ==========================================
+   TEXTO Y PÁRRAFOS
+   ========================================== */
+
+p {
+  margin-bottom: 40px; /* Margen amplio para respirar */
+}
+
+/* Citas / Blockquotes */
+blockquote {
+  margin: 50px 0;
+  padding: 15px 0 15px 25px;
+  border-left: 2px solid var(--text);
+  font-style: italic;
+  color: #dddddd;
+}
+
+blockquote p {
+  margin-bottom: 0;
+}
+
+/* Enlaces Globales */
+a {
+  color: var(--text);
+  text-decoration: underline;
+}
+
+a:hover {
+  opacity: 0.7;
+}
+
+/* ==========================================
+   LISTAS SEMÁNTICAS (Sin clases)
+   ========================================== */
+
+ul, ol {
+  margin-bottom: 40px;
+  padding-left: 25px;
+}
+
+li {
+  margin-bottom: 20px;
+}
+
+li strong {
+  display: inline-block;
+}
+
+/* Sublistas anidadas */
+ul ul, ol ol, ul ol, ol ul {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  padding-left: 20px;
+  border-left: 1px solid var(--border-color);
+}
+
+/* Listas sin viñetas (para la sección de plataformas) */
+.platform-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.platform-list li {
+  margin-bottom: 45px;
+}
+
+/* ==========================================
+   NAVEGACIÓN / MENÚ (.enlaces)
+   ========================================== */
+
+nav, .enlaces {
+  text-align: center;
+  font-size: 1.15rem;
+  margin-top: 30px;
+  margin-bottom: 60px;
+  letter-spacing: 1px;
+}
+
+nav a, .enlaces a {
+  margin: 0 12px;
+  display: inline-block;
+}
+
+/* Enlace de regreso o migas de pan */
+.back-link {
+  display: inline-block;
+  margin-bottom: 40px;
+  font-size: 1.05rem;
+}
+
+/* ==========================================
+   ESTRUCTURA Y COMPONENTES
+   ========================================== */
+
+header {
+  text-align: center;
+  margin-bottom: 90px;
+}
+
+header p {
+  margin-bottom: 0;
+}
+
+section, article {
+  margin-bottom: 80px;
+}
+
+/* Subtítulos / Slogan / Firma */
+.slogan {
+  font-style: italic;
+  font-size: 1.4rem;
+  color: var(--text-muted);
+  margin-bottom: 15px;
+}
+
+.author {
+  font-size: 1.05rem;
+  letter-spacing: 1px;
+}
+
+.signature {
+  margin-top: 80px;
+  text-align: right;
+  font-style: italic;
+}
+
+/* Contenedor de Video Responsivo */
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  border: 1px solid var(--border-color);
+  margin: 40px 0;
+}
+
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+/* Código en texto plano */
+code, pre {
+  font-family: monospace;
+  font-size: 1.05rem;
+  background-color: #111111;
+  padding: 3px 6px;
+  border-radius: 3px;
+}
+
+pre {
+  padding: 20px;
+  overflow-x: auto;
+  margin-bottom: 40px;
+  border: 1px solid var(--border-color);
+}
+
+/* Pie de página */
+footer {
+  text-align: center;
+  margin-top: 120px;
+  padding-top: 30px;
+  border-top: 1px solid #111111;
+  font-size: 0.95rem;
+  color: var(--text-muted);
+}
+
+footer a {
+  color: var(--text-muted);
+}
