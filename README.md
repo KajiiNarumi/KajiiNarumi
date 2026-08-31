@@ -10,7 +10,7 @@ Aunque no es una persona, Kajii Narumi representa una presencia que orienta: un 
 
 ## 📌 Plataformas Principales
 
-| [🌎 Web Site](https://kajiinarumi.com) | [📺 YouTube](https://youtube.com/@kajiinarumi) | [📝 Blog](https://iasuarezv.com) | [🎮 Steam](https://store.steampowered.com/curator/42511696-Kajii-Narumi/) |
+| [🌎 Web Site](https://kajiinarumi.com) | [📺 YouTube](https://youtube.com/@kajiinarumi) [📺 Dailymotion](https://www.dailymotion.com/user/iasuarezv) | [📝 Blog](https://iasuarezv.com) | [🎮 Steam](https://store.steampowered.com/curator/42511696-Kajii-Narumi/) |
 |:--------------------------------------:|:----------------------------------------------:|:--------------------------------:|:------------------------------------------------:|
 | Sitio oficial y proyecto | Videos, transmisiones y videopodcast | Artículos, notas de gadgets y opiniones en iasuarezv.com | Reseñas y pruebas de videojuegos en GNU/Linux |
 
